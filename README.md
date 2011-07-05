@@ -8,6 +8,13 @@ SkEye is primarily developed in English. Translations have been contributed by c
 ## Credits
   * French translation by Germain Gagnerot
 
+## License & Copyright
+All translations are copyright Harshad RJ and are in the public domain. Anyone can use these
+translations for any projects, commercial or non-commercial, closed-source or open-source.
+
+When you create a translation, you will have to assign the copyright to me. I will add your
+name to the credits (unless you request not to).
+
 ## What can be translated
 Currently, only strings used in the User Interface can be translated. Translations for
 astronomical object names is planned but not implemented yet.
