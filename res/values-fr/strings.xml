@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">SkEye</string>
+  <string name="tip_align">
+    <u><b>Conseils pour l\'alignement</b></u>
+    <small>\nLe mode indirect <em>n\'est pas fait</em> pour une utilisation manuelle.\nIl vous faut au moins un alignement pour activer le mode indirect. Vous pouvez ajouter plusieurs alignements soit en utilisant \"Insta-Align\" soit par le biais de cette fenêtre </small>
+  </string>
+  <string name="enable_gps_text">
+    <b>Activer le GPS</b>\n<small>(Ouvre les paramètres de localisation de votre téléphone. Merci de revenir ici dès que ce sera effectué)</small>
+  </string>
+  <string name="manual_location_tip">
+    Merci d\'entrer les valeurs en <b>DEGRES DECIMAUX</b>. L\'Est et le Nord doivent être positifs.
+  </string>
+  <!--string name="manual_location_tip">
+    Merci d\'entrer les valeurs en <b>DEGRES DECIMAUX</b>. L\'Est et le Nord doivent être positifs.
+    <small>\nAstuce: Vérifiez les noms suggérés après avoir entré les coordonnées</small>
+  </string-->
+  <string name="prompt_suggested_names">...</string>
+  <string name="title_suggested_names">Noms suggérés</string>
+  
+  <string name="menu_opt_search">Recherche</string>
+  <string name="menu_opt_indirect_mode">Mode Indirect</string>
+  <string name="menu_opt_location">Localisation</string>
+  <string name="menu_opt_night_mode">Passer en mode nuit</string>
+  <string name="menu_opt_settings">Paramètres</string> 
+  <string name="menu_opt_about">A Propos</string>
+  <string name="menu_opt_calibrate">Calibrer le \"G-Sensor\"</string>
+  <string name="menu_opt_full_screen">Passer en mode plein écran</string>
+    
+    
+  <string name="sort_prompt">Trier</string>
+  <string-array name="sort_choices">
+    <item>Par nom</item>
+    <item>Par facilité de visualisation</item>
+  </string-array>
+  
+  <string name="settings_handheld">Mode manuel</string>
+  <string name="settings_indirect">Mode indirect</string>
+  <string name="settings_autorotation">Rotation automatique des étiquettes</string>
+  <string name="settings_gridvisiblity">Affichage de la grille</string>
+  <string name="settings_altazm_grid">Grille Altitude/Azimuth</string>
+  <string name="settings_eq_grid">Grille équatoriale</string>
+  <string name="settings_sensitivity">Sensibilité</string>
+  <string name="settings_sensitivity_note">NB: Plus la sensibilité est élevée moins il y a de lag, mais cela risque d\' augmenter la gigue.</string>
+  <string name="settings_sensitivity_note_ditto">Idem</string>
+  
+  <string name="tip_calibrate">Pour calibrer l\'accéléromètre (aussi connu comme G-Senrsor), mettez l\'appareil sur une surface complètement plane comme une table par exemple et appuyez sur le bouton \"Calibrer\".\n\n<small>Vous aurez besoin de faire ceci qu\'une seule fois. SkEye se rapellera de vos paramètres.</small></string>
+  
+  <string name="adding_new_location">Ajouter une nouvelle localisation</string>
+  <string name="name_for_location">Nom pour la localisation</string>
+  <string name="use_current_location">Utiliser la localisation actuelle</string>
+  <string name="use_lastknown_location">Utiliser la dernière localisation connue</string>
+  <string name="waiting_for_gps_fix">Attendre la correction du GPS&#8230;</string>
+  <string name="please_wait">Patientez s\'il vous plaît&#8230;</string>
+  <string name="accept">Accepter</string>
+  <string name="latitude_in_degrees">Latitude en degrés</string>
+  <string name="longitude_in_degrees">Longitude en degrés</string>
+  <string name="use_gps">Utiliser le GPS</string>
+  <string name="specify_manually">Spécifier manuellement</string>
+  <string name="select_your_location">Choisir votre localisation\n<small>SkEye a besoin d\'avoir votre localisation précise afin de pouvoir vous donner de meilleurs résultats</small></string>
+  <string name="add_new">Ajouter</string>
+  <string name="str_return">Retour</string>
+  <string name="add_new_alignment">Ajouter de nouveaux alignements</string>
+  <string name="clear_all_alignments">Effacer tous les alignements</string>
+  <string name="object_for_alignment">Objet de l\'alignement</string>
+  <string name="search">Recherche</string>
+  <string name="sort_objects">Trier les objets</string>
+  <string name="no_alignments_to_clear">Aucun alignements pour effacer</string>
+  <string name="calibrate_and_save">Calibrer et enregistrer</string>
+  <string name="forget_calibration">Réinitialiser les paramètres de calibrage</string>
+  <string name="accelerometer">Accéléromètre</string>
+  <string name="magnetometer">Magnétomètre</string>
+  <string name="accelerometer_sensitivity">Sensibilité de l\'accéléromètre</string>
+  <string name="magnetometer_sensitivity">Sensibilité du magnétomètre</string>
+  
+  <string name="catalogs">Catalogues</string>
+  <string name="catalog_ngc_enable">Catalogue NGC</string>
+  <string name="catalog_ngc_summary">Afficher les objets du catalogue NGC</string>
+  <string name="note">Note</string>
+  <string name="ngc_disabled_note">Afin de simplifier l\'interface pour les nouveaux arrivants le catalogue <b>NGC</b> a été désactivé par défaut.\n\nVous pourrez facilement le réactiver à partir du menu de Paramètres.</string>
+  <string name="sensor_change_note">Cette version dispose d\'un gestionnaire de capteur nouveau et amélioré qui devrait être plus stable.\n\nVos paramètres de sensibilité précédent (le cas échéant) ont été réinitialisés. Vous pouvez les modifier à nouveau à partir du menu Paramètres.</string>
+  
+  <string name="principal_orientation_title">Orientation principale</string>
+  <string name="principal_orientation_dialog_title">Choisissez l\'orientation principale</string>
+  <string name="principal_orientation_summary">Orientation de l\'affichage principal</string>
+  <string name="principal_orientation_default">orient0</string>
+  
+  <string-array name="principal_orientation_entries">
+    <item>Auto</item>
+    <item>Portrait</item>
+    <item>Paysage</item>
+    <!-- Others are only supported in API level 9 and above
+    <item>Portrait Inverted</item>
+    <item>Landscape Inverted</item> -->
+  </string-array>
+  
+  <string name="sensitivity_default">Normal</string>
+  <string-array name="sensitivity_choices">
+    <item>La plus basse</item>
+    <item>Basse</item>
+    <item>Normale</item>
+    <item>Haute</item>
+    <item>La plus haute</item>
+  </string-array>
+  
+</resources>
