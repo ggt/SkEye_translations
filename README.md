@@ -1,5 +1,7 @@
 ## SkEye Translations
-This project hosts the translations for strings used in SkEye.
+This project hosts the translations for strings used in [SkEye][1].
+
+  [1]: http://lavadip.com/1830_introducing_skeye.html
 
 SkEye is primarily developed in English. Translations have been contributed by community.
 
