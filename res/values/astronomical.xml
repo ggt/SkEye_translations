@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="directions">
+    <item>North</item>
+    <item>East</item>
+  	<item>West</item>
+    <item>South</item>
+    <item>Zenith</item>
+    <item>Nadir</item>
+  </string-array>
+  
+  <string-array name="solar_system">
+    <item>Sun</item>
+    <item>Moon</item>
+  	<item>Mercury</item>
+    <item>Venus</item>
+    <item>Mars</item>
+    <item>Jupiter</item>
+    <item>Saturn</item>
+    <item>Uranus</item>
+    <item>Neptune</item>
+  </string-array>
+  
+  <string-array name="constellations">
+    <item>Andromeda</item>
+    <item>Antlia</item>
+    <item>Apus</item>
+    <item>Aquila</item>
+    <item>Aquarius</item>
+    <item>Ara</item>
+    <item>Aries</item>
+    <item>Auriga</item>
+    <item>Bootes</item>
+    <item>Caelum</item>
+    <item>Camelopardalis</item>
+    <item>Capricornus</item>
+    <item>Carina</item>
+    <item>Cassiopeia</item>
+    <item>Centaurus</item>
+    <item>Cepheus</item>
+    <item>Cetus</item>
+    <item>Chamaeleon</item>
+    <item>Circinus</item>
+    <item>Canis Major</item>
+    <item>Canis Minor</item>
+    <item>Cancer</item>
+    <item>Columba</item>
+    <item>Coma Berenices</item>
+    <item>Corona Australis</item>
+    <item>Corona Borealis</item>
+    <item>Crater</item>
+    <item>Crux</item>
+    <item>Corvus</item>
+    <item>Canes Venatici</item>
+    <item>Cygnus</item>
+    <item>Delphinus</item>
+    <item>Dorado</item>
+    <item>Draco</item>
+    <item>Equuleus</item>
+    <item>Eridanus</item>
+    <item>Fornax</item>
+    <item>Gemini</item>
+    <item>Grus</item>
+    <item>Hercules</item>
+    <item>Horologium</item>
+    <item>Hydra</item>
+    <item>Hydrus</item>
+    <item>Indus</item>
+    <item>Lacerta</item>
+    <item>Leo</item>
+    <item>Lepus</item>
+    <item>Libra</item>
+    <item>Leo Minor</item>
+    <item>Lupus</item>
+    <item>Lynx</item>
+    <item>Lyra</item>
+    <item>Mensa</item>
+    <item>Microscopium</item>
+    <item>Monoceros</item>
+    <item>Musca</item>
+    <item>Norma</item>
+    <item>Octans</item>
+    <item>Ophiuchus</item>
+    <item>Orion</item>
+    <item>Pavo</item>
+    <item>Pegasus</item>
+    <item>Perseus</item>
+    <item>Phoenix</item>
+    <item>Pictor</item>
+    <item>Piscis Austrinus</item>
+    <item>Pisces</item>
+    <item>Puppis</item>
+    <item>Pyxis</item>
+    <item>Reticulum</item>
+    <item>Sculptor</item>
+    <item>Scorpius</item>
+    <item>Scutum</item>
+    <item>Serpens</item>
+    <item>Sextans</item>
+    <item>Sagitta</item>
+    <item>Sagittarius</item>
+    <item>Taurus</item>
+    <item>Telescopium</item>
+    <item>Triangulum Australe</item>
+    <item>Triangulum</item>
+    <item>Tucana</item>
+    <item>Ursa Major</item>
+    <item>Ursa Minor</item>
+    <item>Vela</item>
+    <item>Virgo</item>
+    <item>Volans</item>
+    <item>Vulpecula</item>
+  </string-array> 
+</resources>
