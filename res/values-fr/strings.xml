@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
+  <string-array name="directions">
+    <item>Nord</item>
+    <item>Est</item>
+    <item>Ouest</item>
+    <item>Sud</item>
+    <item>Zénith</item>
+    <item>Nadir</item>
+  </string-array>
+  
   <string name="app_name">SkEye</string>
   <string name="tip_align">
     <u><b>Conseils pour l\'alignement</b></u>
