@@ -29,7 +29,7 @@ As of Jul 9 2011, some strings that are currently not translateable are:
 ## HowTo
 Localization in Android is done by defining strings in locale specific XML files.
 
-It is quite easy to get started with it. You can have a look at some example localizatios in the res/ folder to understand how they work.
+It is quite easy to get started with it. You can have a look at some example localizations in the res/ folder to understand how they work.
 
 All the details of how Android does localization can be seen in the [offical Android document][2].
 
