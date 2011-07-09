@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
+<resources>
+  <string-array name="directions">
+    <item>észak</item>
+    <item>kelet</item>
+    <item>nyugat</item>
+    <item>dél</item>
+    <item>Zenit</item>
+    <item>Nadír</item>
+  </string-array>
+  
+  <string name="app_name">SkEye</string>
+  <string name="tip_align">
+    <u><b>Ötletek a beállításhoz</b></u>
+    <small>\nA közvetett mód <b>NEM</b> kézből, hanem távcsővel együtt történő használathoz való.\nLegalább egy betanítás szükséges ahhoz, hogy közvetett módot engedélyezni lehessen. Ezen a felületen keresztül több betanítás is megadható.</small>
+  </string>
+  <string name="enable_gps_text">
+    <b>GPS engedélyezése</b>\n<small>Engedélyezze a Beállítás menüben, után térjen vissza</small>
+  </string>
+  <string name="manual_location_tip">
+    Érték megadása <b>TIZEDES TÖRTKÉNT</b>. Észak és kelet előjele pozitív.
+  </string>
+  <!--string name="manual_location_tip">
+    Please enter the values as <b>DECIMAL DEGREES</b>. East and North should be positive.
+    <small>\nTip: Check the suggested names after typing the coordinates</small>
+  </string  -->
+  <string name="prompt_suggested_names">...</string>
+  <string name="title_suggested_names">Javasolt nevek</string>
+  
+  <string name="menu_opt_search">Keresés</string>
+  <string name="menu_opt_indirect_mode">Közvetett mód</string>
+  <string name="menu_opt_location">Pozíció</string>
+  <string name="menu_opt_night_mode">Éjszakai mód váltás</string>
+  <string name="menu_opt_settings">Beállítások</string> 
+  <string name="menu_opt_about">Névjegy</string>
+  <string name="menu_opt_calibrate">G-Szenzor kalibrálása</string>
+  <string name="menu_opt_full_screen">Teljes képernyő</string>
+    
+    
+  <string name="sort_prompt">Rendezés</string>
+  <string-array name="sort_choices">
+    <item>Név szerint</item>
+    <item>Könnyen megtalálható</item>
+  </string-array>
+  
+  <string name="settings_handheld">Kézi mód</string>
+  <string name="settings_indirect">Közvetett mód</string>
+  <string name="settings_autorotation">Cimkék automatikus forgatása</string>
+  <string name="settings_gridvisiblity">Megjelenítendő rácsok</string>
+  <string name="settings_altazm_grid">Alt-Azm rács</string>
+  <string name="settings_eq_grid">Egyenlítői rács</string>
+  <string name="settings_sensitivity">Érzékenység</string>
+  <string name="settings_sensitivity_note">Megjegyzés: a nagyobb érzékenység csökkenti a válaszidőt, de növeli a jitter-t.</string>
+  <string name="settings_sensitivity_note_ditto">Dettó</string>
+  
+  <string name="tip_calibrate">Itt lehet kalibrálni a giroszkópot, és a gyorsulásmérőt. Fektesse a készüléket képernyővel felfelé egy sík, vízszintes felületre, mint egy asztal. Aztán nyomja meg a Kalibrálás gombot.\n\n<small>Ezt csak egyszer kell megtenni. A SkEye megjegyzi a beállításokat.</small></string>
+  
+  <string name="adding_new_location">Új észlelési hely megadása </string>
+  <string name="name_for_location">Észlelési hely elnevezése</string>
+  <string name="use_current_location">Pillanatnyi pozíció használata </string>
+  <string name="use_lastknown_location">Utolsó ismert pozíció használata </string>
+  <string name="waiting_for_gps_fix">GPS inicializálás&#8230;</string>
+  <string name="please_wait">Kérem várjon&#8230;</string>
+  <string name="accept">Elfogad</string>
+  <string name="latitude_in_degrees">Szélesség (fokban)</string>
+  <string name="longitude_in_degrees">Hosszúság (fokban)</string>
+  <string name="use_gps">GPS használata</string>
+  <string name="specify_manually">Kézi megadás</string>
+  <string name="select_your_location">Pozíció kiválasztása\n<small>A SkEye-nak pontos adatokra van szüksége a pontos működés érdekében</small></string>
+  <string name="add_new">Hozzáadás</string>
+  <string name="str_return">Vissza</string>
+  <string name="add_new_alignment">Új betanítás</string>
+  <string name="clear_all_alignments">Minden betanítás törlése</string>
+  <string name="object_for_alignment">Betanításhoz felhasznált objektumok</string>
+  <string name="search">Keresés</string>
+  <string name="sort_objects">Objektumok renderése</string>
+  <string name="no_alignments_to_clear">Nincs törölhető betanítás</string>
+  <string name="calibrate_and_save">Kalibráció és mentés</string>
+  <string name="forget_calibration">Kalibrációs beállítások törlése</string>
+  <string name="accelerometer">Gyorsulásmérő</string>
+  <string name="magnetometer">Magnetométer</string>
+  <string name="accelerometer_sensitivity">Gyorsulásmérő érzékenység</string>
+  <string name="magnetometer_sensitivity">Magnetométer érzékenység</string>
+  
+  <string name="catalogs">Katalógusok</string>
+  <string name="catalog_ngc_enable">NGC Katalógus</string>
+  <string name="catalog_ngc_summary">Az NGC Katalógus </string>
+  <string name="note">Megjegyzés</string>
+  <string name="ngc_disabled_note">Az <b>NGC</b> katalógus alapértelmezés szerint ki van kapcsolva.\n\nKönnyedén újra engedélyezni lehet a beállítások menüben.</string>
+  <string name="sensor_change_note">Ez a verzió egy továbbfejlesztett szenzor menedzsmentet rendelkezik.\n\nA korábbi érzékelő beéllítások (amennyivben voltak) törlődtek. Újre beállateni a beállítások menüben lehet.</string>
+  
+  <string name="principal_orientation_title">Elsődleges orientáció</string>
+  <string name="principal_orientation_dialog_title">Elsődleges orientáció kiválasztása</string>
+  <string name="principal_orientation_summary">Főképernyő orientációja</string>
+  <string name="principal_orientation_default">orient0</string>
+  
+  <string-array name="principal_orientation_entries">
+    <item>Autómatikus</item>
+    <item>Álló</item>
+    <item>Fekvő</item>
+    <!-- Others are only supported in API level 9 and above
+    <item>Portrait Inverted</item>
+    <item>Landscape Inverted</item> -->
+  </string-array>
+  
+  <string name="sensitivity_default">Közepes</string>
+  <string-array name="sensitivity_choices">
+    <item>Legalacsonyabb</item>
+    <item>Alacsony</item>
+    <item>Közepes</item>
+    <item>Magas</item>
+    <item>Legmagasabb</item>
+  </string-array>
+</resources>

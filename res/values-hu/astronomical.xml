@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
+<resources>
+  <string-array name="solar_system">
+    <item>Nap</item>
+    <item>Hold</item>
+  	<item>Merkúr</item>
+    <item>Vénusz</item>
+    <item>Mars</item>
+    <item>Jupiter</item>
+    <item>Szaturnus</item>
+    <item>Uranusz</item>
+    <item>Neptunusz</item>
+  </string-array>
+  
+  <string-array name="constellations">
+    <item>Androméda</item>
+    <item>Légszivattyú</item>
+    <item>Paradicsommadár</item>
+    <item>Sas</item>
+    <item>Vízöntő</item>
+    <item>Oltár</item>
+    <item>Kos</item>
+    <item>Szekeres</item>
+    <item>Ökörhajcsár</item>
+    <item>Véső</item>
+    <item>Zsiráf</item>
+    <item>Bak</item>
+    <item>Hajógerinc</item>
+    <item>Kassziopeia</item>
+    <item>Kentaur</item>
+    <item>Cefeusz</item>
+    <item>Cet</item>
+    <item>Kaméleon</item>
+    <item>Körző</item>
+    <item>Nagy Kutya</item>
+    <item>Kis Kutya</item>
+    <item>Rák</item>
+    <item>Galamb</item>
+    <item>Bereniké Haja</item>
+    <item>Déli Korona</item>
+    <item>Északi Korona</item>
+    <item>Serleg</item>
+    <item>Dél Keresztje</item>
+    <item>Holló</item>
+    <item>Vadászebek</item>
+    <item>Hattyú</item>
+    <item>Delfin</item>
+    <item>Aranyhal</item>
+    <item>Sárkány</item>
+    <item>Csikó</item>
+    <item>Eridanus Folyó</item>
+    <item>Kemence</item>
+    <item>Ikrek</item>
+    <item>Daru</item>
+    <item>Herkules</item>
+    <item>Ingaóra</item>
+    <item>Vízikígyó</item>
+    <item>Déli Vízikígyó</item>
+    <item>Indiai</item>
+    <item>Gyík</item>
+    <item>Oroszlán</item>
+    <item>Lepus</item>
+    <item>Libra</item>
+    <item>Kis Oroszlán</item>
+    <item>Nyúl</item>
+    <item>Hiúz</item>
+    <item>Lant</item>
+    <item>Táblahegy</item>
+    <item>Mikroszkóp</item>
+    <item>Egyszarvú</item>
+    <item>Légy</item>
+    <item>Szögmérő</item>
+    <item>Oktáns</item>
+    <item>Kígyótartó</item>
+    <item>Orion</item>
+    <item>Páva</item>
+    <item>Pegazus</item>
+    <item>Perzeusz</item>
+    <item>Főnix</item>
+    <item>Festő</item>
+    <item>Déli Halak</item>
+    <item>Halak</item>
+    <item>Hajófara</item>
+    <item>Tájoló</item>
+    <item>Háló</item>
+    <item>Szobrász</item>
+    <item>Skorpió</item>
+    <item>Pajzs</item>
+    <item>Kígyó</item>
+    <item>Szextáns</item>
+    <item>Nyíl</item>
+    <item>Nyilas</item>
+    <item>Bika</item>
+    <item>Távcső</item>
+    <item>Déli Háromszög</item>
+    <item>Háromszög</item>
+    <item>Tukán</item>
+    <item>Nagy Medve</item>
+    <item>Kis Medve</item>
+    <item>Vitorla</item>
+    <item>Szűz</item>
+    <item>Repülőhal</item>
+    <item>Róka</item>
+  </string-array> 
+</resources>

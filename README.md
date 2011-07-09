@@ -7,6 +7,7 @@ SkEye is primarily developed in English. Translations have been contributed by c
 
 ## Credits
   * French translation by Germain Gagnerot
+  * Hungarian translation by Berenji Péter
 
 ## License & Copyright
 All translations are copyright Harshad RJ and are in the public domain. Anyone can use these
@@ -16,24 +17,20 @@ When you create a translation, you will have to assign the copyright to Harshad 
 name to the credits (unless you request not to).
 
 ## What can be translated
-Currently, only strings used in the User Interface can be translated. Translations for
-astronomical object names is planned but not implemented yet.
+Currently, many of the strings used in the User Interface and the following astronomical objects:
+
+  * Solar system objects
+  * Constellation names
+
+As of Jul 9 2011, some strings that are currently not translateable are:
+  * a few strings used in the UI, especially the search and alignment dialogs
+  * Star names
 
 ## HowTo
-If you know how Android handles Strings, then you can just follow the standard conventions.
+Localization in Android is done by defining strings in locale specific XML files.
 
-If you are not familiar with Android String conventions, don't worry, it is easy to grasp. There is one XML
-file for each localisation. Here localisation means a (country + language) pair.
+It is quite easy to get started with it. You can have a look at some example localizatios in the res/ folder to understand how they work.
 
-For example, American English and UK English are two different localisations. Similarly, the French in France
-would be different from the French in Canada.
+All the details of how Android does localization can be seen in the [offical Android document][2].
 
-However, if the country is not specified, then that translation is applied globally, irrespective of country.
-
-Another handy rule is that, if the translation for a string doesn't exist, it falls back to the string specified
-in the default XML file.
-
-In the case of SkEye, we can initially focus only on non-country specific translations. Though if you want
-to add country specific translations you are welcome.
-
-TODO: Expand this further
+  [2]: http://developer.android.com/guide/topics/resources/localization.html
