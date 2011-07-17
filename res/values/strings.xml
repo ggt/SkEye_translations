@@ -2,15 +2,14 @@
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
   <string-array name="directions">
+    <item>South</item>
     <item>North</item>
     <item>East</item>
     <item>West</item>
-    <item>South</item>
-    <item>Zenith</item>
     <item>Nadir</item>
+    <item>Zenith</item>
   </string-array>
   
-  <string name="app_name">SkEye</string>
   <string name="tip_align">
     <u><b>Tips for Alignment</b></u>
     <small>\nIndirect mode is <em>not</em> for handheld use.\nAtleast one alignment is required to enable indirect mode. You can add more alignments with Insta-Align or through this window.</small>
@@ -25,7 +24,6 @@
     Please enter the values as <b>DECIMAL DEGREES</b>. East and North should be positive.
     <small>\nTip: Check the suggested names after typing the coordinates</small>
   </string  -->
-  <string name="prompt_suggested_names">...</string>
   <string name="title_suggested_names">Suggested names</string>
   
   <string name="menu_opt_search">Search</string>
@@ -93,7 +91,6 @@
   <string name="principal_orientation_title">Principal orientation</string>
   <string name="principal_orientation_dialog_title">Choose the principal orientation</string>
   <string name="principal_orientation_summary">Orientation of main display</string>
-  <string name="principal_orientation_default">orient0</string>
   
   <string-array name="principal_orientation_entries">
     <item>Auto</item>
@@ -104,7 +101,6 @@
     <item>Landscape Inverted</item> -->
   </string-array>
   
-  <string name="sensitivity_default">Normal</string>
   <string-array name="sensitivity_choices">
     <item>Lowest</item>
     <item>Low</item>
@@ -112,4 +108,17 @@
     <item>High</item>
     <item>Highest</item>
   </string-array>
+  
+  <!-- Added on 16 Jul 2011 -->
+  <string name="cleared_all_alignments">Cleared all alignments</string>
+  <string name="confirm_clear_all_alignments">Clear all alignments?</string>
+  <string name="sensor_warning">Warning: Strange Magnetic field!</string>
+  <string name="sensor_warning_extreme">Warning: Extremely strange Magnetic field!</string>
+  <string name="show_sensor_warnings_title">Magnetic field warning</string>
+  <string name="show_sensor_warnings_descr">Warn about abnormal magnetic field</string>
+  <string name="sensor_tips_title">Tips for better performance</string>
+  <string name="sensor_tips">• Ensure magnetometer is calibrated by waving the phone in a figure 8 motion.
+  \n\n• Ensure phone is far from Iron, Steel and electric equipment.
+  \n\n• Ensure your location is set correctly.
+  \n\n<small>(Note: This warning can be disabled via Settings)</small></string>
 </resources>

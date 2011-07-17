@@ -2,15 +2,14 @@
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
   <string-array name="directions">
+    <item>Sud</item>
     <item>Nord</item>
     <item>Est</item>
     <item>Ouest</item>
-    <item>Sud</item>
-    <item>Zénith</item>
     <item>Nadir</item>
+    <item>Zénith</item>
   </string-array>
   
-  <string name="app_name">SkEye</string>
   <string name="tip_align">
     <u><b>Conseils pour l\'alignement</b></u>
     <small>\nLe mode indirect <em>n\'est pas fait</em> pour une utilisation manuelle.\nIl vous faut au moins un alignement pour activer le mode indirect. Vous pouvez ajouter plusieurs alignements soit en utilisant \"Insta-Align\" soit par le biais de cette fenêtre </small>
@@ -25,7 +24,6 @@
     Merci d\'entrer les valeurs en <b>DEGRES DECIMAUX</b>. L\'Est et le Nord doivent être positifs.
     <small>\nAstuce: Vérifiez les noms suggérés après avoir entré les coordonnées</small>
   </string-->
-  <string name="prompt_suggested_names">...</string>
   <string name="title_suggested_names">Noms suggérés</string>
   
   <string name="menu_opt_search">Recherche</string>
@@ -93,7 +91,6 @@
   <string name="principal_orientation_title">Orientation principale</string>
   <string name="principal_orientation_dialog_title">Choisissez l\'orientation principale</string>
   <string name="principal_orientation_summary">Orientation de l\'affichage principal</string>
-  <string name="principal_orientation_default">orient0</string>
   
   <string-array name="principal_orientation_entries">
     <item>Auto</item>
@@ -104,7 +101,6 @@
     <item>Landscape Inverted</item> -->
   </string-array>
   
-  <string name="sensitivity_default">Normal</string>
   <string-array name="sensitivity_choices">
     <item>La plus basse</item>
     <item>Basse</item>

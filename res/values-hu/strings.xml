@@ -2,15 +2,14 @@
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
   <string-array name="directions">
+    <item>dél</item>
     <item>észak</item>
     <item>kelet</item>
     <item>nyugat</item>
-    <item>dél</item>
-    <item>Zenit</item>
     <item>Nadír</item>
+    <item>Zenit</item>
   </string-array>
   
-  <string name="app_name">SkEye</string>
   <string name="tip_align">
     <u><b>Ötletek a beállításhoz</b></u>
     <small>\nA közvetett mód <b>NEM</b> kézből, hanem távcsővel együtt történő használathoz való.\nLegalább egy betanítás szükséges ahhoz, hogy közvetett módot engedélyezni lehessen. Ezen a felületen keresztül több betanítás is megadható.</small>
@@ -25,7 +24,6 @@
     Please enter the values as <b>DECIMAL DEGREES</b>. East and North should be positive.
     <small>\nTip: Check the suggested names after typing the coordinates</small>
   </string  -->
-  <string name="prompt_suggested_names">...</string>
   <string name="title_suggested_names">Javasolt nevek</string>
   
   <string name="menu_opt_search">Keresés</string>
@@ -93,7 +91,6 @@
   <string name="principal_orientation_title">Elsődleges orientáció</string>
   <string name="principal_orientation_dialog_title">Elsődleges orientáció kiválasztása</string>
   <string name="principal_orientation_summary">Főképernyő orientációja</string>
-  <string name="principal_orientation_default">orient0</string>
   
   <string-array name="principal_orientation_entries">
     <item>Autómatikus</item>
@@ -104,7 +101,6 @@
     <item>Landscape Inverted</item> -->
   </string-array>
   
-  <string name="sensitivity_default">Közepes</string>
   <string-array name="sensitivity_choices">
     <item>Legalacsonyabb</item>
     <item>Alacsony</item>

@@ -23,6 +23,7 @@ Currently, many of the strings used in the User Interface and the following astr
   * Constellation names
 
 As of Jul 9 2011, some strings that are currently not translateable are:
+
   * a few strings used in the UI, especially the search and alignment dialogs
   * Star names
 
