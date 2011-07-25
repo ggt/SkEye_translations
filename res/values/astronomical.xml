@@ -4,7 +4,7 @@
   <string-array name="solar_system">
     <item>Sun</item>
     <item>Moon</item>
-  	<item>Mercury</item>
+    <item>Mercury</item>
     <item>Venus</item>
     <item>Mars</item>
     <item>Jupiter</item>
@@ -103,4 +103,27 @@
     <item>Volans</item>
     <item>Vulpecula</item>
   </string-array> 
+  
+  <string-array name="majortype_names_star">
+    <item>Star</item>
+    <item>Double star</item>
+  </string-array>
+
+  <string-array name="majortype_names_star_group">
+    <item>Cluster</item>
+    <item>Globular Cluster</item>
+    <item>Open Cluster</item>
+    <item>Assoc. of Stars</item>
+  </string-array>
+
+  <string-array name="majortype_names_galaxy">
+    <item>Galaxy</item>
+  </string-array>
+
+  <string-array name="majortype_names_ism">
+    <item>Supernova Remnant</item>
+    <item>HII region</item>
+    <item>Planetary Nebula</item>
+    <item>Reflection Nebula</item>
+  </string-array>
 </resources>

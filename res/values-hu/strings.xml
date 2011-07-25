@@ -2,10 +2,10 @@
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
   <string-array name="directions">
-    <item>dél</item>
-    <item>észak</item>
-    <item>kelet</item>
-    <item>nyugat</item>
+    <item>Dél</item>
+    <item>Észak</item>
+    <item>Kelet</item>
+    <item>Nyugat</item>
     <item>Nadír</item>
     <item>Zenit</item>
   </string-array>
@@ -15,15 +15,11 @@
     <small>\nA közvetett mód <b>NEM</b> kézből, hanem távcsővel együtt történő használathoz való.\nLegalább egy betanítás szükséges ahhoz, hogy közvetett módot engedélyezni lehessen. Ezen a felületen keresztül több betanítás is megadható.</small>
   </string>
   <string name="enable_gps_text">
-    <b>GPS engedélyezése</b>\n<small>Engedélyezze a Beállítás menüben, után térjen vissza</small>
+    <b>GPS engedélyezése</b>\n<small>Engedélyezze a GPS használatát, majd térjen vissza</small>
   </string>
   <string name="manual_location_tip">
     Érték megadása <b>TIZEDES TÖRTKÉNT</b>. Észak és kelet előjele pozitív.
   </string>
-  <!--string name="manual_location_tip">
-    Please enter the values as <b>DECIMAL DEGREES</b>. East and North should be positive.
-    <small>\nTip: Check the suggested names after typing the coordinates</small>
-  </string  -->
   <string name="title_suggested_names">Javasolt nevek</string>
   
   <string name="menu_opt_search">Keresés</string>
@@ -39,7 +35,7 @@
   <string name="sort_prompt">Rendezés</string>
   <string-array name="sort_choices">
     <item>Név szerint</item>
-    <item>Könnyen megtalálható</item>
+    <item>Lálhatóság szerint</item>
   </string-array>
   
   <string name="settings_handheld">Kézi mód</string>
@@ -49,10 +45,10 @@
   <string name="settings_altazm_grid">Alt-Azm rács</string>
   <string name="settings_eq_grid">Egyenlítői rács</string>
   <string name="settings_sensitivity">Érzékenység</string>
-  <string name="settings_sensitivity_note">Megjegyzés: a nagyobb érzékenység csökkenti a válaszidőt, de növeli a jitter-t.</string>
-  <string name="settings_sensitivity_note_ditto">Dettó</string>
+  <string name="settings_sensitivity_note">Megjegyzés: a nagyobb érzékenység csökkenti a válaszidőt, de növeli a pozíciók pillanatnyi bizonytalanságát</string>
+  <string name="settings_sensitivity_note_ditto">Látsd fent</string>
   
-  <string name="tip_calibrate">Itt lehet kalibrálni a giroszkópot, és a gyorsulásmérőt. Fektesse a készüléket képernyővel felfelé egy sík, vízszintes felületre, mint egy asztal. Aztán nyomja meg a Kalibrálás gombot.\n\n<small>Ezt csak egyszer kell megtenni. A SkEye megjegyzi a beállításokat.</small></string>
+  <string name="tip_calibrate">Itt lehet kalibrálni a giroszkópot és a gyorsulásmérőt. Fektesse a készüléket képernyővel felfelé egy sík, vízszintes felületre, például egy asztalra. Majd nyomja meg a Kalibrálás gombot.\n\n<small>Ezt csak egyszer kell megtenni. A SkEye megjegyzi a beállításokat.</small></string>
   
   <string name="adding_new_location">Új észlelési hely megadása </string>
   <string name="name_for_location">Észlelési hely elnevezése</string>
@@ -72,7 +68,7 @@
   <string name="clear_all_alignments">Minden betanítás törlése</string>
   <string name="object_for_alignment">Betanításhoz felhasznált objektumok</string>
   <string name="search">Keresés</string>
-  <string name="sort_objects">Objektumok renderése</string>
+  <string name="sort_objects">Renderés</string>
   <string name="no_alignments_to_clear">Nincs törölhető betanítás</string>
   <string name="calibrate_and_save">Kalibráció és mentés</string>
   <string name="forget_calibration">Kalibrációs beállítások törlése</string>
@@ -83,7 +79,7 @@
   
   <string name="catalogs">Katalógusok</string>
   <string name="catalog_ngc_enable">NGC Katalógus</string>
-  <string name="catalog_ngc_summary">Az NGC Katalógus </string>
+  <string name="catalog_ngc_summary">Az NGC katalógus 169 válogatott eleme</string>
   <string name="note">Megjegyzés</string>
   <string name="ngc_disabled_note">Az <b>NGC</b> katalógus alapértelmezés szerint ki van kapcsolva.\n\nKönnyedén újra engedélyezni lehet a beállítások menüben.</string>
   <string name="sensor_change_note">Ez a verzió egy továbbfejlesztett szenzor menedzsmentet rendelkezik.\n\nA korábbi érzékelő beéllítások (amennyivben voltak) törlődtek. Újre beállateni a beállítások menüben lehet.</string>
@@ -108,4 +104,43 @@
     <item>Magas</item>
     <item>Legmagasabb</item>
   </string-array>
+
+  <string name="cleared_all_alignments">Minden betanítás törölve.</string>
+  <string name="confirm_clear_all_alignments">Töröl minden betanítást?</string>
+  <string name="sensor_warning">Figyelmeztetés: Erős mágneses tér!</string>
+  <string name="sensor_warning_extreme">Figyelem: Extrém erős mágneses mező!</string>
+  <string name="show_sensor_warnings_title">Mágneses erőtér riasztás</string>
+  <string name="show_sensor_warnings_descr">A normálistól eltérő mágneses mező esetén figyelmeztetést ad</string>
+  <string name="sensor_tips_title">Pár ötlet az eredményesebb felhasználás érdekében</string>
+  <string name="sensor_tips">• Bizonyosodjon meg róla, hogy a magnetométer kalibrált állapotban van. Ehhez rajzoljon gyorsan pár 8-ast a levegőbe a telefonnal.
+  \n\n• Bizonyosodjon meg róla, hogy a telefon mágnesezhető fémektől, mint a vas, és az acél, illetőleg elektromos eszközöktől kellően távol van.
+  \n\n• Bizonyosodjon meg róla, hogy a pozíciója helyesen van megadva.
+  \n\n<small>(Megjegyzés: Ez az értesítés a Beállítások menüből kikapcsolható)</small></string>
+
+  <string name="about_text"><Data><![CDATA[
+    A SkEye egy mobil planetárium, melyet távcső pozícióba állítására is fel tud használni.
+    <br/><br/>Látogassa meg <a href=\'http://lavadip.com/1830_introducing_skeye.html\'>weblapunk</a>
+    <br/><br/><a href=\'http://lavadip.com/media/SkEyeIntro.pdf\'>Angol nyelvű felhasználói kézikönyv</a> (PDF in English)
+    <br/><br/>Email <a href=\'mailto:harshad.rj@gmail.com?subject=SkEye Feedback %s\'>a fejlesztőnek</a>
+    <br/><br/>Email <a href=\'mailto:mobil.berenji@gmail.com?cc=harshad.rj@gmail.com&subject=SkEye Translation Feedback\'>a ferdítőnek</a>
+   ]]></Data></string>
+
+  <string name="solar_system">Naprendszer</string>
+  <string name="messiers">Messier</string>
+  <string name="stars">Csillag</string>
+  <string name="constellations">Csillagkép</string>
+  <string name="constellation">Csillagkép</string>
+  <string name="star_str">Csillag</string>
+  <string name="sun_descr">Naprendszerünk központi csillaga, Mag: -26.7</string>
+  <string name="moon_descr">Földünk egyetlen holdja</string>
+  <string name="planet_descr">Bolygó</string>
+  <string name="size">méret</string>
+  <string name="fov">LM °</string>
+  <string name="insta_align">Betanítás</string>
+  <string name="align_to">Betanítás a(z) %s -al?</string>
+  <string name="added_align">Betanítás hozzáadott</string>
+  <string name="cancelled_align">Betanítás megszakítva</string>
+  <string name="looking_for"><Data><![CDATA[
+    <small>Keresés:</small><br/><b>%s</b>
+   ]]></Data></string>
 </resources>

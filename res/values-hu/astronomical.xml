@@ -8,8 +8,8 @@
     <item>Vénusz</item>
     <item>Mars</item>
     <item>Jupiter</item>
-    <item>Szaturnus</item>
-    <item>Uranusz</item>
+    <item>Szaturnusz</item>
+    <item>Uránusz</item>
     <item>Neptunusz</item>
   </string-array>
   
@@ -103,4 +103,27 @@
     <item>Repülőhal</item>
     <item>Róka</item>
   </string-array> 
+
+  <string-array name="majortype_names_star">
+    <item>Csillag</item>
+    <item>Kettőscsillag</item>
+  </string-array>
+
+  <string-array name="majortype_names_star_group">
+    <item>Klaszter</item>
+    <item>Gömbhalmaz</item>
+    <item>Nyílthalmaz</item>
+    <item>Csillagcsoport</item>
+  </string-array>
+
+  <string-array name="majortype_names_galaxy">
+    <item>Galaxis</item>
+  </string-array>
+
+  <string-array name="majortype_names_ism">
+    <item>Szupernóva maradvány </item>
+    <item>Diffúz köd</item>
+    <item>Planetáris köd</item>
+    <item>Reflexiós köd</item>
+  </string-array>
 </resources>

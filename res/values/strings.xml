@@ -121,4 +121,34 @@
   \n\n• Ensure phone is far from Iron, Steel and electric equipment.
   \n\n• Ensure your location is set correctly.
   \n\n<small>(Note: This warning can be disabled via Settings)</small></string>
+
+  <!-- Added on July 25 -->
+  <string name="about_text"><Data><![CDATA[
+    SkEye is a mobile planetarium that can also be used to guide telescopes.
+    <br/><br/>Visit <a href=\'http://lavadip.com/1830_introducing_skeye.html\'>Homepage</a>
+    <br/><br/>View <a href=\'http://lavadip.com/media/SkEyeIntro.pdf\'>Tutorial</a> (PDF in English)
+    <br/><br/>Email <a href=\'mailto:harshad.rj@gmail.com?subject=SkEye Feedback %s\'>Author</a>
+   ]]></Data></string>
+
+  <string name="solar_system">Solar System</string>
+  <string name="messiers">Messiers</string>
+  <string name="stars">Stars</string>
+  <string name="constellations">Constellations</string>
+  <string name="ngc_tag">NGC</string>
+  <string name="special_catalog_tag">Special Catalog</string>
+  <string name="constellation">Constellation</string>
+  <string name="star_str">Star</string>
+  <string name="sun_descr">Closest star, magnitude : -26.7</string>
+  <string name="moon_descr">Earth\'s only satellite</string>
+  <string name="planet_descr">Planet</string>
+  <string name="size">Size</string>
+  <string name="fov">FOV °</string>
+  <string name="insta_align">Insta-Align</string>
+  <string name="align_to">Align to %s?</string>
+  <string name="added_align">Added Alignment</string>
+  <string name="cancelled_align">Cancelled Alignment</string>
+  <string name="looking_for"><Data><![CDATA[
+    <small>Looking for</small><br/><b>%s</b>
+   ]]></Data></string>
+
 </resources>
