@@ -108,5 +108,47 @@
     <item>Haute</item>
     <item>La plus haute</item>
   </string-array>
+
+  <string name="cleared_all_alignments">Tous les alignements ont étés supprimés</string>
+  <string name="confirm_clear_all_alignments">Supprimer les alignements?</string>
+  <string name="sensor_warning">Attention: Le champ magnétique est étrange!</string>
+  <string name="sensor_warning_extreme">Attention: Le champ magnétique est extrèmement étrange!</string>
+  <string name="show_sensor_warnings_title">Avertissement du champ magnétique</string>
+  <string name="show_sensor_warnings_descr">Avertir en cas d\'anormalité du champ magnétique</string>
+  <string name="sensor_tips_title">Conseil pour de meilleures performances</string>
+  <string name="sensor_tips">• Assurez vous que le magnétomètre ait été calibré en faisant une figure de 8 avec votre téléphone.
+  \n\n• Assurez vous que votre téléphone se trouve loin d\'objets en fer, d\'acier aisi que d\'équipements électriques.
+  \n\n• Assurez vous que votre localité soit correcte.
+  \n\n<small>(Note: Cet avertissement peut être désactivé dans les Options)</small></string>
+
+  <string name="about_text"><Data><![CDATA[
+    Skeye est un planétarium mobile qui peut aussi être utilisé pour guider vos télescopes.
+    <br/><br/>Visiter <a href=\'http://lavadip.com/1830_introducing_skeye.html\'>Page d\'accueil</a> (Anglais pour le moment)
+    <br/><br/>Voir <a href=\'http://lavadip.com/media/SkEyeIntro.pdf\'>Tuto</a> (PDF en anglais pour le moment)
+    <br/><br/>Email <a href=\'mailto:harshad.rj@gmail.com?subject=SkEye Feedback %s\'>Auteur</a> (Anglais uniquement)
+   ]]></Data></string>
+
+  <string name="solar_system">Système solaire</string>
+  <string name="messiers">Objets Messiers</string>
+  <string name="stars">Etoiles</string>
+  <string name="constellations">Constellations</string>
+  <string name="ngc_tag">NGC</string>
+  <string name="special_catalog_tag">Catalogue spécial</string>
+  <string name="constellation">Constellation</string>
+  <string name="star_str">Etoile</string>
+  <string name="sun_descr">Etoile la plus proche, magnitude : -26.7</string>
+  <string name="moon_descr">Satellites terrestres uniquement</string>
+  <string name="planet_descr">Planète</string>
+  <string name="size">Taille</string>
+  <string name="fov">FOV °</string>
+  <string name="insta_align">Insta-Align</string>
+  <string name="align_to">Aligner à %s?</string>
+  <string name="added_align">Alignment ajouté</string>
+  <string name="cancelled_align">Alignment annulé</string>
+  <string name="looking_for"><Data><![CDATA[
+    <small>Rechercher</small><br/><b>%s</b>
+   ]]></Data></string>
+
+
   
 </resources>
