@@ -1,5 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright Harshad RJ. Made available under the public domain without any restrictions -->
 <resources>
-  <!-- Empty template to get you started -->
+  <string-array name="solar_system">
+    <item>Soleil</item>
+    <item>Lune</item>
+    <item>Mercure</item>
+    <item>Venus</item>
+    <item>Mars</item>
+    <item>Jupiter</item>
+    <item>Saturne</item>
+    <item>Uranus</item>
+    <item>Neptune</item>
+  </string-array>
+  
+  <string-array name="constellations">
+    <item>Andromède</item>
+    <item>Machine pneumatique</item>
+    <item>Oiseau de paradis</item>
+    <item>Aigle</item>
+    <item>Verseau</item>
+    <item>Autel</item>
+    <item>Bélier</item>
+    <item>Cocher</item>
+    <item>Bouvier</item>
+    <item>Burin</item>
+    <item>Girafe</item>
+    <item>Capricorne</item>
+    <item>Carène</item>
+    <item>Cassiopée</item>
+    <item>Centaure</item>
+    <item>Céphée</item>
+    <item>Baleine</item>
+    <item>Caméléon</item>
+    <item>Compas</item>
+    <item>Grand chien</item>
+    <item>Petit chien</item>
+    <item>Cancer</item>
+    <item>Colombe</item>
+    <item>Chevelure de Bérénice</item>
+    <item>Couronne australe</item>
+    <item>Couronne boréale</item>
+    <item>Coupe</item>
+    <item>Croix</item>
+    <item>Corbeau</item>
+    <item>Chiens de chasse</item>
+    <item>Cygne</item>
+    <item>Dauphin</item>
+    <item>Daurade</item>
+    <item>Dragon</item>
+    <item>Petit cheval</item>
+    <item>Eridan</item>
+    <item>Fourneau</item>
+    <item>Gémeaux</item>
+    <item>Grue</item>
+    <item>Hercule</item>
+    <item>Horologe</item>
+    <item>Hydre</item>
+    <item>Hydre male</item>
+    <item>Indien</item>
+    <item>Lézard</item>
+    <item>Lion</item>
+    <item>Lièvre</item>
+    <item>Balance</item>
+    <item>Petit lion</item>
+    <item>Loup</item>
+    <item>Lynx</item>
+    <item>Lyre</item>
+    <item>Table</item>
+    <item>Microscope</item>
+    <item>Licorne</item>
+    <item>Mouche</item>
+    <item>Règle</item>
+    <item>Octant</item>
+    <item>Ophiuchus</item>
+    <item>Orion</item>
+    <item>Paon</item>
+    <item>Pegase</item>
+    <item>Persée</item>
+    <item>Phoenix</item>
+    <item>Peintre</item>
+    <item>Poisson austral</item>
+    <item>Poissons</item>
+    <item>Poupe</item>
+    <item>Boussole</item>
+    <item>Réticule</item>
+    <item>Sculpteur</item>
+    <item>Scorpion</item>
+    <item>Ecu de Sobieski</item>
+    <item>Serpent</item>
+    <item>Sextant</item>
+    <item>Flèche</item>
+    <item>Sagittaire</item>
+    <item>Taureau</item>
+    <item>Télescope</item>
+    <item>Triangle austral</item>
+    <item>Triangle</item>
+    <item>Toucan</item>
+    <item>Grande ourse</item>
+    <item>Petite ourse</item>
+    <item>Voiles</item>
+    <item>Vierge</item>
+    <item>Poisson volant</item>
+    <item>Petit renard</item>
+  </string-array> 
+  
+  <string-array name="majortype_names_star">
+    <item>Etoile</item>
+    <item>Etoile double</item>
+  </string-array>
+
+  <string-array name="majortype_names_star_group">
+    <item>Amas</item>
+    <item>Amas globulaire</item>
+    <item>Amas ouvert</item>
+    <item>Amas d\'etoiles</item>
+  </string-array>
+
+  <string-array name="majortype_names_galaxy">
+    <item>Galaxie</item>
+  </string-array>
+
+  <string-array name="majortype_names_ism">
+    <item>Rémanent de supernova</item>
+    <item>Régions HII</item>
+    <item>Nébuleuse planétaire</item>
+    <item>Nébuleuse par réflexion</item>
+  </string-array>
 </resources>
