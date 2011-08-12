@@ -132,7 +132,6 @@
   <string name="constellation">Csillagkép</string>
   <string name="star_str">Csillag</string>
   <string name="sun_descr">Naprendszerünk központi csillaga, Mag: -26.7</string>
-  <string name="moon_descr">Földünk egyetlen holdja</string>
   <string name="planet_descr">Bolygó</string>
   <string name="size">méret</string>
   <string name="fov">LM °</string>

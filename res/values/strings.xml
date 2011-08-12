@@ -139,7 +139,6 @@
   <string name="constellation">Constellation</string>
   <string name="star_str">Star</string>
   <string name="sun_descr">Closest star, magnitude : -26.7</string>
-  <string name="moon_descr">Earth\'s only satellite</string>
   <string name="planet_descr">Planet</string>
   <string name="size">Size</string>
   <string name="fov">FOV °</string>
@@ -151,4 +150,8 @@
     <small>Looking for</small><br/><b>%s</b>
    ]]></Data></string>
 
+  <string name="illum_descr">Illumination: %2.1f%%</string>
+
+  <string name="zoom_by_volume_keys_title">Zoom by Volume keys</string>
+  <string name="zoom_by_volume_keys_descr">Use the volume rocker to zoom in and zoom out</string>
 </resources>

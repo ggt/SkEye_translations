@@ -126,4 +126,16 @@
     <item>Nébuleuse planétaire</item>
     <item>Nébuleuse par réflexion</item>
   </string-array>
+
+  <string-array name="moon_phase_descr">
+    <item>Nouvelle Lune</item>
+    <item>Premier croissant</item>
+    <item>Premier quartier</item>
+    <item>Première Lune gibbeuse</item>
+    <item>Pleine Lune</item>
+    <item>Deuxième Lune gibbeuse</item>
+    <item>Dernier quartier</item>
+    <item>Dernier croissant</item>
+  </string-array>
+
 </resources>

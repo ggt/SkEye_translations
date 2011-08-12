@@ -137,7 +137,6 @@
   <string name="constellation">Constellation</string>
   <string name="star_str">Etoile</string>
   <string name="sun_descr">Etoile la plus proche, magnitude : -26.7</string>
-  <string name="moon_descr">Satellites terrestres uniquement</string>
   <string name="planet_descr">Planète</string>
   <string name="size">Taille</string>
   <string name="fov">FOV °</string>
@@ -149,6 +148,11 @@
     <small>Rechercher</small><br/><b>%s</b>
    ]]></Data></string>
 
+  <string name="illum_descr">éclairage: %2.1f%%</string>
 
-  
+  <!-- TODO 
+  <string name="zoom_by_volume_keys_title">Zoom by Volume keys</string>
+  <string name="zoom_by_volume_keys_descr">Use the volume rocker to zoom in and zoom out</string>
+  -->
+
 </resources>

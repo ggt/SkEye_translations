@@ -126,4 +126,16 @@
     <item>Planetary Nebula</item>
     <item>Reflection Nebula</item>
   </string-array>
+
+  <string-array name="moon_phase_descr">
+    <item>New Moon</item>
+    <item>Waxing Crescent</item>
+    <item>First Quarter</item>
+    <item>Waxing Gibbous</item>
+    <item>Full Moon</item>
+    <item>Waning Gibbous</item>
+    <item>Last Quarter</item>
+    <item>Waning Crescent</item>
+  </string-array>
+
 </resources>
