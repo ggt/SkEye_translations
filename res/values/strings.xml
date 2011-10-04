@@ -162,4 +162,10 @@
   <string name="editing_location">Editing location</string>
   <string name="location_set">Location set to</string>
   <string name="location_not_changed">Location was not changed.</string>
+  
+  <string name="exit_manual_mode_button">Back</string>
+  <string name="align_in_manual_mode_button">Align</string>
+  <string name="align_in_manual_mode_message_format">Make sure phone is strapped to observing equipment and centered on the target.\n\nThen click %s.</string>
+  <string name="align_in_manual_mode_title_format">Align to %s</string>
+  <string name="entering_manual_mode">Manual scrolling started</string>
 </resources>
