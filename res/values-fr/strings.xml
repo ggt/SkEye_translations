@@ -153,15 +153,14 @@
   <string name="zoom_by_volume_keys_title">Zoomer a l\'aide des touches de volume</string>
   <string name="zoom_by_volume_keys_descr">Utiliser les touches de volume pour zoomer en avant ou en arrière</string>
   <string name="altitude_in_meters">Altitude en mètres</string>
-
-  <!-- TODO
-  <string name="location_numeric_error">Please enter numerical values for co-ordinates and altitude</string>
-  <string name="location_context_edit">Edit this location</string>
-  <string name="location_context_delete">Delete this location</string>
-  <string name="location_context_select">Select this location</string>
-  <string name="editing_location">Editing location</string>
-  <string name="location_set">Location set to</string>
-  <string name="location_not_changed">Location was not changed.</string>
-  -->
+  
+  <string name="location_numeric_error">Merci d\'entrer les valeurs numériques pour les coordonnées et l\'altitude</string>
+  <string name="location_context_edit">Modifier cet emplacement</string>
+  <string name="location_context_delete">Supprimer cet emplacement</string>
+  <string name="location_context_select">Sélectionner cet emplacement</string>
+  <string name="editing_location">Editer cet emplacement</string>
+  <string name="location_set">Emplacement définit à</string>
+  <string name="location_not_changed">Cet emplacement n\'a pas été défini.</string>
+  
 
 </resources>
