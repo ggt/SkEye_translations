@@ -160,7 +160,7 @@
   <string name="location_context_select">Sélectionner cet emplacement</string>
   <string name="editing_location">Editer cet emplacement</string>
   <string name="location_set">Emplacement définit à</string>
-  <string name="location_not_changed">Cet emplacement n\'a pas été défini.</string>
+  <string name="location_not_changed">Cet emplacement n\'a pas été modifié.</string>
   
 
 </resources>
